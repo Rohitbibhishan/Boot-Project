@@ -12,7 +12,7 @@ public class Student {
     private Long id;
     private String name;
     private int age;
-    private int rollno=123;
+    private int rollno=12;
     private String email;
     //rollno= 123;
 
